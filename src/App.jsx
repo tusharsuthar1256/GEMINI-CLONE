@@ -1,11 +1,9 @@
-import React from 'react'
-import SideBar from './Components/Sidebar/sideBar'
-import Main from './Components/main/Main'
+import SideBar from './Components/Sidebar/SideBar.jsx'
+import Main from './Components/main/Main.jsx'
 
 function App() {
   return (
     <>
-    
     <SideBar/>
     <Main/>
     </>
